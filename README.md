@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shubh1777
 - 👀 I’m interested in Data Science and A.I.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
+
+[![An image of @shubh1777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubh1777)](https://holopin.io/@shubh1777)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubh1777&theme=dark&background=000000)](https://git.io/streak-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
  
