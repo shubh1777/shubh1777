@@ -8,6 +8,13 @@
 
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
   
 <!---
 shubh1777/shubh1777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
