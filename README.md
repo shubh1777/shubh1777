@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding ...
 - 📫 How to reach me ...
 
-- ### :fire: My Stats :
+- ### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubh1777&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 shubh1777/shubh1777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
