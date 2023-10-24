@@ -11,10 +11,14 @@
 
 
 
+<a href="https://github.com/shubh1777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh1777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shubham's github stats" /></a>
+
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shubh1777/count.svg" />
 </p>
+
+
   
 <!---
 shubh1777/shubh1777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
