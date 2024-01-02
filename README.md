@@ -16,9 +16,7 @@
  <a href="https://github.com/shubh1777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh1777&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="shubham's github stats" /></a> 
 
 
-### Streetcred:
 
-<a href="https://www.tublian.com/profile/shubh1777?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shubh1777?type=with_score"></a>
 ### My Stack:
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Engineering"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/C%2FC%2B%2B"/>
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/>
